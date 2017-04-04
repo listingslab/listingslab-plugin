@@ -12,4 +12,6 @@ function safe_print() {
  print " -------- I think I'm getting a clue!";
 }
 
+// [LL-Shortcode]
+
 /* End of File */
